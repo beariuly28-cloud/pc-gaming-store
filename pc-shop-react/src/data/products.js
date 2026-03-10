@@ -1,0 +1,147 @@
+const products = [
+{
+id:1,
+name:"PC Gaming RTX 3060",
+price:18000000,
+image:"/images/1.jpg",
+category:"gaming",
+tag:"hot",
+cpu:"Intel i5 12400F",
+gpu:"RTX 3060",
+ram:"16GB",
+ssd:"512GB"
+},
+{
+id:2,
+name:"PC Gaming RTX 4060",
+price:22000000,
+image:"/images/2.jpg",
+category:"gaming",
+tag:"sale",
+cpu:"Intel i5 13400F",
+gpu:"RTX 4060",
+ram:"16GB",
+ssd:"1TB"
+},
+{
+id:3,
+name:"PC Workstation 3D",
+price:25000000,
+image:"/images/3.jpg",
+category:"workstation",
+tag:"new",
+cpu:"Intel i7 13700",
+gpu:"RTX 3060",
+ram:"32GB",
+ssd:"1TB"
+},
+{
+id:4,
+name:"PC Gaming AMD",
+price:19000000,
+image:"/images/4.jpg",
+category:"gaming",
+tag:"",
+cpu:"Ryzen 5 5600",
+gpu:"RTX 3060",
+ram:"16GB",
+ssd:"512GB"
+},
+{
+id:5,
+name:"PC Gaming i5 RTX",
+price:20000000,
+image:"/images/5.jpg",
+category:"gaming",
+tag:"hot",
+cpu:"Intel i5 12400F",
+gpu:"RTX 3050",
+ram:"16GB",
+ssd:"512GB"
+},
+{
+id:6,
+name:"PC Gaming i7 RTX",
+price:27000000,
+image:"/images/6.jpg",
+category:"gaming",
+tag:"",
+cpu:"Intel i7 13700F",
+gpu:"RTX 4070",
+ram:"32GB",
+ssd:"1TB"
+},
+{
+id:7,
+name:"PC Streaming Setup",
+price:24000000,
+image:"/images/5.jpg",
+category:"streaming",
+tag:"sale",
+cpu:"Ryzen 7 5800X",
+gpu:"RTX 3060",
+ram:"32GB",
+ssd:"1TB"
+},
+{
+id:8,
+name:"PC Editing Video",
+price:26000000,
+image:"/images/3.jpg",
+category:"workstation",
+tag:"",
+cpu:"Intel i7 13700K",
+gpu:"RTX 3070",
+ram:"32GB",
+ssd:"1TB"
+},
+{
+id:9,
+name:"PC Gaming RGB",
+price:21000000,
+image:"/images/1.jpg",
+category:"gaming",
+tag:"hot",
+cpu:"Intel i5 13400F",
+gpu:"RTX 4060",
+ram:"16GB",
+ssd:"1TB"
+},
+{
+id:10,
+name:"PC Mini Gaming",
+price:17000000,
+image:"/images/2.jpg",
+category:"gaming",
+tag:"",
+cpu:"Ryzen 5 5600G",
+gpu:"RTX 3050",
+ram:"16GB",
+ssd:"512GB"
+},
+{
+id:11,
+name:"PC Office Basic",
+price:12000000,
+image:"/images/4.jpg",
+category:"office",
+tag:"",
+cpu:"Intel i3 12100",
+gpu:"Integrated UHD 730",
+ram:"8GB",
+ssd:"256GB"
+},
+{
+id:12,
+name:"PC Office Pro",
+price:15000000,
+image:"/images/6.jpg",
+category:"office",
+tag:"new",
+cpu:"Intel i5 12400",
+gpu:"Integrated UHD 730",
+ram:"16GB",
+ssd:"512GB"
+}
+]
+export default products
